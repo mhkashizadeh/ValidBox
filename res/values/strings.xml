@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityMain!</string>
+    <string name="app_name">ValidBox</string>
+    
+    <!-- Icon -->
+    
+    <string name="ic_cross"></string>
+    <string name="ic_checkmark"></string>
+
+    <string name="ic_checkbox_checked"></string>
+    <string name="ic_checkbox_unchecked"></string>
+    
+    <string name="ic_radio_checked"></string>
+    <string name="ic_radio_unchecked"></string>
+    
+    
+</resources>

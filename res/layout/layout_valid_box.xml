@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal" android:gravity="center" android:background="@drawable/shape_valid_box" android:padding="4dp">
+
+    <EditText
+        android:id="@+id/validBoxEdt"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@null"
+        android:ems="10"
+        android:padding="4dp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:src="#222" />
+
+    <TextView
+        android:id="@+id/validBoxTxtIsValid"
+        android:layout_width="32dp"
+        android:layout_height="match_parent"
+        android:background="#333"
+        android:gravity="center"
+        android:padding="8dp" />
+
+</LinearLayout>
